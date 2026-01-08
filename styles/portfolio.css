@@ -36,7 +36,8 @@
 
 header{
     background-color: #ffb885;
-    background: url("../images/developer.png") , url("../images/header_bg.png");
+    background: url("../images/developer.png") , url("../images/header_bg.png") , #ffb885;;
+    background-repeat: no-repeat;
     background-position: tp left, bottom right;
     padding-top: 50px;
 }
