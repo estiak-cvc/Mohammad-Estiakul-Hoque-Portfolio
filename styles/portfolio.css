@@ -154,3 +154,8 @@ nav .menu a{
     max-width: 1140px;
     margin: 0 auto;
 }
+
+#skills .skills-container .skill-box {
+    display: flex;
+    gap: 24px;
+}
